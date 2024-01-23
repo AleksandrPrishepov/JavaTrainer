@@ -1,8 +1,8 @@
-import java.util.Scanner;
 
 public class Cat {
+    int d = 12;
     public static void main(String[] args) {
-        System.out.println();
+	float k = 1.2f;
 
     }
 }
